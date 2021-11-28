@@ -32,7 +32,7 @@ def download(dccon, file_name):
 #     writer.close()
 
 
-print('---- 깃허브: https://github.com/ppaka ----')
+print('---- 깃허브: https://github.com/ppaka/DcinsideEmojiDownloader ----')
 print('만두몰 진입 -> 디시콘 바로가기 -> 원하는 디시콘 모음집 우클릭 -> 링크 주소 복사')
 
 path = os.path.dirname(os.path.abspath(__file__))
