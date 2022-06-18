@@ -49,8 +49,8 @@ if re.search('[\/:*?"<>|]', title):
 
 dccons = soup['detail']
 
-for x in title:
-    print(ord(x))
+# for x in title:
+#     print(ord(x))
 
 print('찾은 디시콘 개수: ' + str(len(dccons)))
 
